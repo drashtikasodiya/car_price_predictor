@@ -1,0 +1,28 @@
+.{
+    margin: auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card-body{
+    margin-left: 125px;
+}
+
+.container{
+    margin-top:50px;
+}
+
+.col-10 form-group2{
+    margin-bottom: 500px;
+}
+.col-10 form-group{
+    margin:center;
+    margin-top: 10px;
+}
+.bg-dark{
+    background-color: #75767B
+}
+
+.mt-50
+{
+
+}
